@@ -9,3 +9,7 @@
 
 ### Trying to push back to GitHub. 
 
+#### Mod from git-posh setup
+#### Editing with VScode on W10
+#### Fine.
+
